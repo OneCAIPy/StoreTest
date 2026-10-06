@@ -39,7 +39,8 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <subsystems>Subsystem.Сделки</subsystems>
   <catalogs>Catalog.Контрагент</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
-  <documents>Document.ПоступлениеТовара</documents>
+  <documents>Document.ПоступлениеТоваров</documents>
 </mdclass:Configuration>
